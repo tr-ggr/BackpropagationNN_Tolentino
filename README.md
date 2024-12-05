@@ -61,5 +61,15 @@ The **minimum number of training epochs** to achieve learning is **32 epochs**, 
 ## Screenshots
 
 Insert screenshots of your application or results here to provide visual insights.
+# Initial Launch
+![image](https://github.com/user-attachments/assets/210495c3-c41b-436f-b5c0-f0268d00fce8)
+
+# Got a true 
+![image](https://github.com/user-attachments/assets/bbee5397-97ec-4035-936c-465555d55ace)
+
+# Auto Optimize Button
+![image](https://github.com/user-attachments/assets/1ce6492e-d263-4ad0-88d2-f637bc95f192)
+
+
 
 ---
